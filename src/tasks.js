@@ -1,22 +1,22 @@
 export const tareas = [
   {
     id: 1,
-    title: "Mi primer tarea",
-    description: "Mi primera tarea",
+    title: "Dask one",
+    description: "Realizaci´pon de interfaz finaciera",
   },
   {
     id: 2,
-    title: "Mi segunda tarea",
-    description: "Mi segunda tarea",
+    title: "Dask two",
+    description: "Programar almacenamiento periodico de imagenes en Amazon S3",
   },
   {
     id: 3,
-    title: "Mi tercera tarea",
-    description: "Mi tercera tarea",
+    title: "Dask tree",
+    description: "sE",
   },
   {
     id: 4,
-    title: "Mi cuarta tarea",
+    title: "Dask interval",
     description: "Mi cuarta tarea",
   },
 ];
